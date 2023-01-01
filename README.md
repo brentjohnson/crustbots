@@ -14,6 +14,7 @@ Units can be created using the accumilated resources at a cost based on the unit
 * Resource detection
 * Resource gathering
 
+Other stuff
 * Fog of war - you can only see what units can see & report (communication range)
 * Weight (based on the components)
 * Speed (calculated based on power & weight)
