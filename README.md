@@ -1,5 +1,16 @@
 # crustbots
 
+## Phase 1
+*Port crobots to rust*
+
+## Phase 2
+*Multi-robot battles*
+
+Each player programs multiple robots with different programs.  Maybe add some communication between the robots.
+
+## Phase 3
+*RTS with programmable robots*
+
 The idea behind this game is a cross between crobots and an RTS (with a little bit of Rescue Raiders inspiration.)  Rather than giving orders to the units in an RTS, you write programs to automate each unit.
 
 There is some kind of resource accumulation, either automatic or gathered by units ("bots"?)
